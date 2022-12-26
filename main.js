@@ -244,12 +244,3 @@
 //   items: ["Cake", "Donut"],
 //   extra: true,
 // });
-
-//! ----------------------------- for me
-
-// let first = 5;
-// let second = 10;
-// let third = 2;
-
-// let fourth = (first + second) * third;
-// console.log(fourth);
